@@ -1,0 +1,4 @@
+baseURL = 'http://project.pancakes.fun/'
+languageCode = 'en-us'
+title = 'Project Pancakes'
+theme = 'hugo-book'
