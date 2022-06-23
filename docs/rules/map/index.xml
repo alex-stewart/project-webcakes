@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Map on Project Pancakes</title><link>https://alex-stewart.github.io/project-webcakes/docs/rules/map/</link><description>Recent content in Map on Project Pancakes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://alex-stewart.github.io/project-webcakes/docs/rules/map/index.xml" rel="self" type="application/rss+xml"/><item><title>Biomes</title><link>https://alex-stewart.github.io/project-webcakes/docs/rules/map/biomes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alex-stewart.github.io/project-webcakes/docs/rules/map/biomes/</guid><description>Biomes # Each map tiles has an associated biome. Each biome has a harvest yield modifier for each season.
+Tundra # Spring: 0% Summer: 0% Winter: 0%
+Taiga # Spring: 50% Summer: 50% Winter: 0%
+Grassland # Spring: 50% Summer: 100% Winter: 0%
+Savanna # Spring: 50% Summer: 0% Winter: 50%
+Desert # Spring: 0% Summer: 0% Winter: 0%
+Temperate Forest # Spring: 50% Summer: 100% Winter: 50%
+Wetlands # Spring: 100% Summer: 50% Winter: 0%</description></item></channel></rss>
