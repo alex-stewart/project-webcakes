@@ -1,4 +1,4 @@
-baseURL = 'http://project.pancakes.fun/'
+baseURL = 'https://alex-stewart.github.io/project-webcakes'
 languageCode = 'en-us'
 title = 'Project Pancakes'
 theme = 'hugo-book'
